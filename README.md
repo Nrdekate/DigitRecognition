@@ -12,18 +12,22 @@ The interface is created by using Pygame. The image preprocessing is the most im
 # Dataset
 MNIST is a widely used dataset for the hand-written digit classification task. It consists of 70,000 labelled 28x28 pixel grayscale images of hand-written digits. The dataset is split into 60,000 training images and 10,000 test images. There are 10 classes (one for each of the 10 digits). The task at hand is to train a model using the 60,000 training images and subsequently test its classification accuracy on the 10,000 test images.
 
+## Sample Images:
+These are some sample images of the handwritten character from mnist dataset. <br><br>
+	![sample images](assets/sample_images.png "images in mnist dataset")<br><br>
+
 # Dependencies
 This is the list of dependencies for running this application.
 
-Skleran
-Keras
-tensorflow/theano
-Opencv
-Pygame
-Pandas
-Numpy
-Scipy
-Matplotlib
+* **Skleran**
+ * **Keras**
+ * **tensorflow/theano**
+ * **Opencv**
+ * **Pygame**
+ * **Pandas**
+ * **Numpy**
+ * **Scipy**
+ * **Matplotlib**
 
 # Multi digit reconition
 I am developing an efficient model for detection multiple digits on a single frame like number plate, phone number, cheque number etc. 
