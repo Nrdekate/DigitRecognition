@@ -33,4 +33,9 @@ This is the list of dependencies for running this application.
 I am developing an efficient model for detection multiple digits on a single frame like number plate, phone number, cheque number etc. 
 Here are some results:<br><br>
 	![Capture](assets/Capture.PNG "images in mnist dataset")<br><br>
+	
+# Demo
+<br><br>
+	![demo](assets/demo.gif "images in mnist dataset")<br><br>
+	
 
