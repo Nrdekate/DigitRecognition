@@ -49,6 +49,8 @@ Dataset- MNIST dataset
 Images of size 28 X 28
 Classify digits from 0 to 9
 Logistic Regression, Shallow Network and Deep Network Support added.
+<br><br>
+	![Capture3](assets/Capture3.PNG "images in mnist dataset")<br><br>
 
 # Execution for showing images through webcam
 To run the code, type python Digit-Recognizer.py
