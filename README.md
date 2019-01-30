@@ -38,4 +38,17 @@ Here are some results:<br><br>
 <br><br>
 	![demo](assets/demo.gif "images in mnist dataset")<br><br>
 	
+	
+# Description
+Softmax Regression (synonyms: Multinomial Logistic, Maximum Entropy Classifier, or just Multi-class Logistic Regression) is a generalization of logistic regression that we can use for multi-class classification (under the assumption that the classes are mutually exclusive). In contrast, we use the (standard) Logistic Regression model in binary classification tasks.
 
+For more information, see
+
+# Python Implementation
+Dataset- MNIST dataset
+Images of size 28 X 28
+Classify digits from 0 to 9
+Logistic Regression, Shallow Network and Deep Network Support added.
+
+# Execution for showing images through webcam
+To run the code, type python Digit-Recognizer.py
