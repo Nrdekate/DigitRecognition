@@ -45,10 +45,11 @@ Softmax Regression (synonyms: Multinomial Logistic, Maximum Entropy Classifier, 
 For more information, see
 
 # Python Implementation
-1 **Dataset- MNIST dataset**
-2 **Images of size 28 X 28**
-3 **Classify digits from 0 to 9**
-4 **Logistic Regression, Shallow Network and Deep Network Support added.**
+
+* **Dataset- MNIST dataset**
+* **Images of size 28 X 28**
+* **Classify digits from 0 to 9**
+* **Logistic Regression, Shallow Network and Deep Network Support added.**
 
 # Train Acuracy ~ 91 to 99%
 # Test Acuracy ~ 90 to 98%
