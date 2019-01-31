@@ -49,12 +49,12 @@ For more information, see
 * **Dataset- MNIST dataset**
 * **Images of size 28 X 28**
 * **Classify digits from 0 to 9**
-* **Logistic Regression, Shallow Network and Deep Network Support added.**
+* **CNN.**
 
-# Train Acuracy ~ 91 to 99%
-# Test Acuracy ~ 90 to 98%
+# Train Acuracy 99,45%
+# Test Acuracy 99,32%
 <br><br>
-	![Capture3](assets/Capture3.PNG "images in mnist dataset")<br><br>
+	![Capture4](assets/Capture4.PNG "images in mnist dataset")<br><br>
 
 # Execution for showing images through webcam
 To run the code, type python Digit-Recognizer.py
