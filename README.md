@@ -57,4 +57,4 @@ For more information, see
 	![Capture4](assets/Capture4.PNG "images in mnist dataset")<br><br>
 
 # Execution for showing images through webcam
-To run the code, type python Digit-Recognizer.py
+To run the code, type python cam.py
