@@ -39,10 +39,10 @@ Here are some results:<br><br>
 	![demo](assets/demo.gif "images in mnist dataset")<br><br>
 	
 	
-# Description
-Softmax Regression (synonyms: Multinomial Logistic, Maximum Entropy Classifier, or just Multi-class Logistic Regression) is a generalization of logistic regression that we can use for multi-class classification (under the assumption that the classes are mutually exclusive). In contrast, we use the (standard) Logistic Regression model in binary classification tasks.
+# Digit Recognition using Keras/TensorFlow and OpenCV in Python
 
-For more information, see
+# Description
+I wanted to use what 've learned on DeepLearning to make a real-world project. It was fun and i've learned many new things.
 
 # Python Implementation
 
