@@ -29,7 +29,7 @@ This is the list of dependencies for running this application.
  * **Scipy**
  * **Matplotlib**
 
-# Multi digit reconition
+# Multi digit recognition
 I am developing an efficient model for detection multiple digits on a single frame like number plate, phone number, cheque number etc. 
 Here are some results:<br><br>
 	![Capture2](assets/Capture2.PNG "images in mnist dataset")<br><br>
