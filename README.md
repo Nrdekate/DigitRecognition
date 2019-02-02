@@ -35,8 +35,7 @@ Here are some results:<br><br>
 	![Capture1](assets/Capture1.PNG "images in mnist dataset")<br><br>
 	
 # Demo
-<br><br>
-	<img src="https://github.com/Nrdekate/DigitRecognition/edit/master/Demo of digit regconition.gif">![Demo of digit regconition](assets/Demo of digit regconition.gif "images in mnist dataset")<br><br><br><br>
+![Pygame window](assets/demo.gif "Demo of digit regconition.gif" )<br><br>
 
 
 	
