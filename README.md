@@ -35,7 +35,7 @@ Here are some results:<br><br>
 	![Pygame window](assets/Capture1.PNG "multi digits" )<br><br>
 	
 # Demo
-![Pygame window](assets/Demo of digit regconition.gif "Demo of digit regconition.gif" )<br><br>
+![Pygame window](assets/Demo of digit regconition.gif "Demo.gif" )<br><br>
 
 
 	
