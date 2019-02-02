@@ -32,7 +32,7 @@ This is the list of dependencies for running this application.
 # Multi digit recognition
 I am developing an efficient model for detection multiple digits on a single frame like number plate, phone number, cheque number etc. 
 Here are some results:<br><br>
-	![Capture1](assets/Capture1.PNG "images in mnist dataset")<br><br>
+	![Pygame window](assets/Capture1.PNG "multi digits" )<br><br>
 	
 # Demo
 ![Pygame window](assets/Demo of digit regconition.gif "Demo of digit regconition.gif" )<br><br>
