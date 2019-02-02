@@ -36,7 +36,7 @@ Here are some results:<br><br>
 	
 # Demo
 <br><br>
-	![Demo of digit regconition](assets/Demo of digit regconition.gif "images in mnist dataset")<br><br>
+	<img src="https://github.com/Nrdekate/DigitRecognition/edit/master/DigitRecognition/assets/Demo of digit regconition.gif"><br><br>
 
 
 	
