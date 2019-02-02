@@ -36,7 +36,7 @@ Here are some results:<br><br>
 	
 # Demo
 <br><br>
-![Demo of digit regconition](assets/demo.gif "Demo of digit regconition.gif" )<br><br>
+![Capture1](assets/demo.gif "Demo of digit regconition.gif" )<br><br>
 
 
 	
