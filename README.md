@@ -34,9 +34,6 @@ I am developing an efficient model for detection multiple digits on a single fra
 Here are some results:<br><br>
 	![Pygame window](assets/Capture1.PNG "multi digits" )<br><br>
 	
-# Demo
-![Pygame window](assets/Demo of digit regconition.gif "Demo.gif" )<br><br>
-
 
 	
 # Digit Recognition using Keras/TensorFlow and OpenCV in Python
