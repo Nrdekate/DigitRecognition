@@ -33,8 +33,9 @@ This is the list of dependencies for running this application.
 I am developing an efficient model for detection multiple digits on a single frame like number plate, phone number, cheque number etc. 
 Here are some results:<br><br>
 	![Pygame window](assets/Capture1.PNG "multi digits" )<br><br>
-	
 
+# Execution	
+To run the code, type python app.py
 	
 # Digit Recognition using Keras/TensorFlow and OpenCV in Python
 
