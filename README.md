@@ -36,6 +36,7 @@ Here are some results:<br><br>
 
 # Execution	
 To run the code, type python app.py
+<img src="Demo of digit regconition.gif"/>
 ![Alt Text](Demo of digit regconition.gif)
 
 # Digit Recognition using Keras/TensorFlow and OpenCV in Python
